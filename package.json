@@ -1,6 +1,6 @@
 {
   "name": "react-emailer",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Render HTML from a React tree for your emails",
   "main": "index.js",
   "author": "Osamah Aldoaiss",
