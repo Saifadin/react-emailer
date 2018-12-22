@@ -5,6 +5,7 @@
   "main": "index.js",
   "author": "Osamah Aldoaiss",
   "license": "MIT",
+  "repository": "Saifadin/react-emailer",
   "dependencies": {
     "path": "^0.12.7",
     "react": "^16.7.0",
