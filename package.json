@@ -1,0 +1,13 @@
+{
+  "name": "react-emailer",
+  "version": "1.0.0",
+  "description": "Render HTML from a React tree for your emails",
+  "main": "index.js",
+  "author": "Osamah Aldoaiss",
+  "license": "MIT",
+  "dependencies": {
+    "path": "^0.12.7",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  }
+}
